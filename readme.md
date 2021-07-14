@@ -1,16 +1,11 @@
 # Three.js 
+# Billboard
+Billboards and scenery.
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+# Currently Learning Three.js
+The only thing that is created soo far is the billboard and some rough floor terrain.
 
-# Run the local server at localhost:8080
-npm run dev
 
-# Build for production in the dist/ directory
-npm run build
-```
+Updates will be coming...
+
