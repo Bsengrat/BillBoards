@@ -1,4 +1,3 @@
-# Three.js 
 # Billboard
 Billboards and scenery.
 
